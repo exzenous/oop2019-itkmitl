@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5086271b-4d17-4f9f-8995-ff29bd027f0d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PMQz1bd6tynaQ44j78DGPsrhH0" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lab2_26">
+    <configuration name="Lab2_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPLab2.Lab2_11" />
+      <module name="OOP-Lab02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPLab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab2_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPLab2.Lab2_13" />
+      <module name="OOP-Lab02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPLab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab2_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPLab2.Lab2_23" />
+      <module name="OOP-Lab02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPLab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab2_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPLab2.Lab2_26" />
+      <module name="OOP-Lab02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPLab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPLab2.Lab2_9" />
+      <module name="OOP-Lab02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPLab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab2_26" />
+        <item itemvalue="Application.Lab2_23" />
+        <item itemvalue="Application.Lab2_13" />
+        <item itemvalue="Application.Lab2_11" />
+        <item itemvalue="Application.Lab2_9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5086271b-4d17-4f9f-8995-ff29bd027f0d" name="Default Changelist" comment="" />
+      <created>1565681743567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565681743567</updated>
+    </task>
+    <servers />
+  </component>
+</project>
