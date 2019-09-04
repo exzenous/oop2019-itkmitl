@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fab9c0c-9951-46ac-a811-10cd68b7aef3" name="Default Changelist" comment="" />
+    <list default="true" id="4fab9c0c-9951-46ac-a811-10cd68b7aef3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab01/ScoreMean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Lab01/Lab01/CircleArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Lab01/Lab01/CircleArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Lab01/Lab01/SlideExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Lab01/Lab01/SlideExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab01/CircleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab01/CircleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab01/SlideExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab01/SlideExamples.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1P2hSifJ7V1eJ29hzpxhqJOntkq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -31,9 +45,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SlideExamples">
-    <configuration name="CircleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab01.CircleArea" />
+  <component name="RunManager" selected="Application.Seconder">
+    <configuration name="GasStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab01.GasStation" />
       <module name="OOP-Lab01" />
       <extension name="coverage">
         <pattern>
@@ -45,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlideExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab01.SlideExamples" />
+    <configuration name="ScoreMean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab01.ScoreMean" />
       <module name="OOP-Lab01" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +72,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab01.SolutionFinder" />
+    <configuration name="Seconder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab01.Seconder" />
+      <module name="OOP-Lab01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab01.SquareArea" />
+      <module name="OOP-Lab01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab01.Vatter" />
       <module name="OOP-Lab01" />
       <extension name="coverage">
         <pattern>
@@ -73,9 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SlideExamples" />
-        <item itemvalue="Application.SolutionFinder" />
-        <item itemvalue="Application.CircleArea" />
+        <item itemvalue="Application.Seconder" />
+        <item itemvalue="Application.Vatter" />
+        <item itemvalue="Application.SquareArea" />
+        <item itemvalue="Application.GasStation" />
+        <item itemvalue="Application.ScoreMean" />
       </list>
     </recent_temporary>
   </component>
@@ -91,5 +133,16 @@
       <updated>1565078099473</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
