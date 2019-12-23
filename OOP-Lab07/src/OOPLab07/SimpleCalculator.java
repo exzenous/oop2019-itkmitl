@@ -49,6 +49,7 @@ public class SimpleCalculator {
 
         fr.pack();
         fr.setVisible(true);
+
         fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     }

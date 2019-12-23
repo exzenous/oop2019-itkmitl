@@ -36,7 +36,7 @@ public class TellerGUI {
 
     public class WithdrawSelected implements ActionListener {
         @Override
-        public void actionPerformed(ActionEvent actionEvent) throws NumberFormatException {
+        public void actionPerformed(ActionEvent actionEvent) {
             try {
                 double currentValue = Double.parseDouble(txt1.getText());
                 double withdrawValue = Double.parseDouble(txt2.getText());
@@ -111,9 +111,18 @@ public class TellerGUI {
         fr.add(p3);
         fr.add(p4);
 
+        fr.addWindowListener(new PrintOnClose());
         fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         fr.setSize(400, 200);
         fr.setVisible(true);
+    }
+
+    class PrintOnClose extends WindowAdapter{
+        @Override
+        public void windowClosing(WindowEvent e) {
+            super.windowClosing(e);
+            System.out.println("Hit Close!");
+        }
     }
 
     public static void main(String[] args) {
